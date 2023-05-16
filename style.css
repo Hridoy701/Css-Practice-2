@@ -1,0 +1,22 @@
+h1{
+	background: blue;
+	font-size: 35px;
+	text-align: center;
+	width: 250px;
+	margin: auto;
+	margin-bottom: 50px;
+	margin-top: 50px;
+	color: red;
+}
+p{
+	width: 700px;
+	background: yellow;
+	margin: auto;
+	font-size: 25px;
+	padding: 25px;
+}
+<!--text-aling:left/center/rightt/justify
+    line-height: minemum jototuku font size hohe
+	word-spacing: 20px thake
+-->
+
